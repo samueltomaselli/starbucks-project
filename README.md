@@ -1,3 +1,5 @@
 # starbucks-project
-A clone of starbucks site for studies. 
-Credits to nicepage.io for the template.
+A clone of starbucks site for studies.
+
+- Credits: nicepage.io (template).
+
